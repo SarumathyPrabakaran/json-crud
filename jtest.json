@@ -1,0 +1,18 @@
+{
+    "name1": {
+        "email": "ads",
+        "password": "as"
+    },
+    "name2": {
+        "email": "asddfdf",
+        "password": "asdsdf"
+    },
+    "user": [
+        "val"
+    ],
+    "user2": {
+        "name": "name",
+        "key": "value"
+    }
+}
+

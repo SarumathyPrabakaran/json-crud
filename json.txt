@@ -1,0 +1,18 @@
+crud operations:
+
+c - create
+r - read
+u - update
+d - delete
+
+json --- collection of dictionaries
+
+{
+    "key" :{
+        "name :"saru"   }
+}
+
+3 methods in json:
+1. read() ---> json.load()
+2. write() ---> json.dump(new_dict)
+3. update() --> json.update(new_dict)
